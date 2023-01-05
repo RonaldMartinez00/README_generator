@@ -1,5 +1,5 @@
 # My Project
-
+README_generator
 ## Project Name
 
 Reactproject
@@ -10,11 +10,10 @@ creating a portfolio with react
 
 ## Installation
 
-npm install then run npm package 
+npm install then run node index.js 
 
 ## Usage
-
-.
+fill out the questions and watch the readme.md be created!
 
 ## Credits
 
