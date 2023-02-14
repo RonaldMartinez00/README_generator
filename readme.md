@@ -1,23 +1,24 @@
 # My Project
-README_generator
+
 ## Project Name
 
-Reactproject
+Readme Generator
 
 ## Motivation
 
-creating a portfolio with react
+i wanted to make it simpler to make one
 
 ## Installation
 
-npm install then run node index.js 
+run "node index" into the command line
 
 ## Usage
-fill out the questions and watch the readme.md be created!
+
+node index and answer questions
 
 ## Credits
 
-github.com/ronaldmmartinez00
+
 
 ## License
 

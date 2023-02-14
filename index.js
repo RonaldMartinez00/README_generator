@@ -1,4 +1,3 @@
-module.exports = generateMarkdown;
 const inquirer = require('inquirer');
 const fs = require('fs');
 const questions = [
