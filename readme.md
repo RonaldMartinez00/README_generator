@@ -2,23 +2,23 @@
 
 ## Project Name
 
-Readme Generator
+README generator
 
 ## Motivation
 
-i wanted to make it simpler to make one
+to make README's easier to create!
 
 ## Installation
 
-run "node index" into the command line
+Run node index within the terminal
 
 ## Usage
 
-node index and answer questions
+open terminal within README generator and type "node index" and answer the questions!
 
 ## Credits
 
-
+Ronald Martinez - github.com/ronaldmartinez00
 
 ## License
 
